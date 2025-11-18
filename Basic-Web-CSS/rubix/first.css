@@ -1,0 +1,41 @@
+.first-box {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+#first-box-dad {
+  display: flex;
+  flex-direction: row;
+}
+
+.second-box {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+#second-box-dad {
+  display: flex;
+  flex-direction: row;
+}
+
+.thirth-box {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+#thirth-box-dad {
+  display: flex;
+  flex-direction: row;
+}

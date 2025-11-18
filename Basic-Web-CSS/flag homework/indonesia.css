@@ -1,0 +1,19 @@
+.flag {
+  width: 320px;
+  height: 200px;
+  border: solid 1px black;
+  display: flex;
+  flex-direction: column;
+}
+
+.white {
+  background-color: white;
+  height: 100%;
+  width: 100%;
+}
+
+.red {
+  background-color: red;
+  height: 100%;
+  width: 100%;
+}

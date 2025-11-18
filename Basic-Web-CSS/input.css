@@ -1,0 +1,18 @@
+li {
+  color: green;
+  display: inline;
+}
+
+span {
+  display: block;
+}
+
+div {
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+}
+
+.kid {
+  background-color: green;
+}
